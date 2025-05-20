@@ -18,7 +18,7 @@ Aplikasi kasir desktop sederhana menggunakan Java Swing.
 ![Screenshot Aplikasi](https://github.com/user-attachments/assets/2ced5297-28bc-4d34-9c7c-fb8900911cf2)
 
 
-==========================================================================================================
+============================================================================================
 
 ## Getting Started
 
