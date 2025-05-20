@@ -1,11 +1,24 @@
-## Preview:
+# Aplikasi Kasir Sederhana
 
-![image](https://github.com/user-attachments/assets/2ced5297-28bc-4d34-9c7c-fb8900911cf2)
+Aplikasi kasir desktop sederhana menggunakan Java Swing.
+
+## Fitur
+- Input produk (kode, nama, harga, jumlah)
+- Menampilkan daftar produk dalam tabel
+- Menghitung total belanja
+- Memproses pembayaran dan kembalian
+- Mencetak struk belanja
+
+## Cara Menjalankan
+1. Clone repositori ini
+2. Kompilasi: `javac AplikasiKasir.java`
+3. Jalankan: `java AplikasiKasir`
+
+## Screenshot
+![Screenshot Aplikasi](https://github.com/user-attachments/assets/2ced5297-28bc-4d34-9c7c-fb8900911cf2)
 
 
-
-
-
+==========================================================================================================
 
 ## Getting Started
 
